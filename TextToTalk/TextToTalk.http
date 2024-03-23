@@ -1,0 +1,6 @@
+@TextToTalk_HostAddress = http://localhost:5229
+
+GET {{TextToTalk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
